@@ -1,4 +1,4 @@
-Vendor_Pricing
+MFC Python GUIs
 ==============
 
-Vendor_Pricing_and_Sales_Tax_App
+Here are two Python GUIs I made with the Tkinter library for use in my job as Bookkeeper at MFC.
